@@ -1,0 +1,18 @@
+.cp_table_header{
+    font-weight: bold;
+    background: teal;
+    color: white;
+}
+.cp_table_body_row{
+    border-bottom: 1px solid teal;
+}
+.cp_table{
+    border-collapse: collapse;
+}
+tr:hover{
+    background: teal;
+    color: white;
+}
+.hide{
+    display: none;
+}
